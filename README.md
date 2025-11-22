@@ -137,9 +137,7 @@ Beginner .NET Developer
 
 If you like this project or found it useful, feel free to star the repository ⭐ on GitHub!
 
----
-
-# 👍 What You Need To Do
+### 👍 What You Need To Do
 
 1. Create a file named **README.md** in your project folder (root).
 2. Paste the entire content above.
