@@ -128,7 +128,9 @@ Here are possible upgrades that would be great for learning and interviews:
 ## 👨‍💻 Author
 
 T Pothan Sai
+
 Beginner .NET Developer
+
 🚀 Passionate about clean code, healthcare tech, and learning new tools.
 
 ---
