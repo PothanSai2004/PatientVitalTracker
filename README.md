@@ -106,8 +106,7 @@ dotnet run
 6. Exit
 
 ## 📸 Screenshots / Usage Demo
-<img width="637" height="238" alt="image" src="https://github.com/user-attachments/assets/51fda9fb-88d4-4840-8fb4-abdbcb27c052" />
-<img width="820" height="415" alt="image" src="https://github.com/user-attachments/assets/69721970-38ab-467d-9e3d-3cb0e6ea56d1" />
+<img width="637" height="238" alt="image" src="https://github.com/user-attachments/assets/51fda9fb-88d4-4840-8fb4-abdbcb27c052" /> <img width="820" height="415" alt="image" src="https://github.com/user-attachments/assets/69721970-38ab-467d-9e3d-3cb0e6ea56d1" />
 <img width="935" height="228" alt="image" src="https://github.com/user-attachments/assets/ec25ffd7-4282-448d-be05-27500a97e799" />
 
 ## 🚀 Future Enhancements
