@@ -1,0 +1,14 @@
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\bin\Debug\net10.0\PatientVitalTracker.exe
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\bin\Debug\net10.0\PatientVitalTracker.deps.json
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\bin\Debug\net10.0\PatientVitalTracker.runtimeconfig.json
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\bin\Debug\net10.0\PatientVitalTracker.dll
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\bin\Debug\net10.0\PatientVitalTracker.pdb
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.AssemblyInfoInputs.cache
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.AssemblyInfo.cs
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.csproj.CoreCompileInputs.cache
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.dll
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\refint\PatientVitalTracker.dll
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.pdb
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\PatientVitalTracker.genruntimeconfig.cache
+D:\Placements_Companies\Medtronics-code\PatientVitalTracker\obj\Debug\net10.0\ref\PatientVitalTracker.dll

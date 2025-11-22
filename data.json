@@ -1,0 +1,46 @@
+{
+  "Patients": [
+    {
+      "Id": 1,
+      "Name": "Jayadeep",
+      "Age": 23
+    },
+    {
+      "Id": 2,
+      "Name": "Pothan Sai",
+      "Age": 21
+    }
+  ],
+  "Readings": [
+    {
+      "PatientId": 1,
+      "Type": 1,
+      "Value": 110,
+      "RecordedAt": "2025-11-22T18:07:30.6585408+05:30"
+    },
+    {
+      "PatientId": 2,
+      "Type": 1,
+      "Value": 98,
+      "RecordedAt": "2025-11-22T18:50:30.6036518+05:30"
+    },
+    {
+      "PatientId": 2,
+      "Type": 5,
+      "Value": 20,
+      "RecordedAt": "2025-11-22T18:54:24.6988295+05:30"
+    },
+    {
+      "PatientId": 2,
+      "Type": 1,
+      "Value": 101,
+      "RecordedAt": "2025-11-22T22:53:36.6837566+05:30"
+    },
+    {
+      "PatientId": 2,
+      "Type": 4,
+      "Value": 99.5,
+      "RecordedAt": "2025-11-22T22:53:57.1946439+05:30"
+    }
+  ]
+}
