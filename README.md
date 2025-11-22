@@ -91,3 +91,60 @@ It is automatically created and updated using **System.Text.Json**.
 ```bash
 git clone https://github.com/YOUR_USERNAME/PatientVitalTracker.git
 cd PatientVitalTracker
+```
+### **2. Run using .NET CLI**
+```bash
+dotnet run
+```
+### **🎮 Console Menu Preview**
+=== Patient Vital Tracker ===
+1. Add Patient
+2. List Patients
+3. Add Vital Reading
+4. View Patient Readings
+5. View Latest Reading Summary
+6. Exit
+
+## 📸 Screenshots / Usage Demo
+<img width="637" height="238" alt="image" src="https://github.com/user-attachments/assets/51fda9fb-88d4-4840-8fb4-abdbcb27c052" />
+<img width="820" height="415" alt="image" src="https://github.com/user-attachments/assets/69721970-38ab-467d-9e3d-3cb0e6ea56d1" />
+<img width="935" height="228" alt="image" src="https://github.com/user-attachments/assets/ec25ffd7-4282-448d-be05-27500a97e799" />
+
+## 🚀 Future Enhancements
+
+Here are possible upgrades that would be great for learning and interviews:
+
+- Convert to ASP.NET Web API
+
+- Add Unit Tests (xUnit/NUnit)
+
+- Use Entity Framework + SQL Database
+
+- Add Graphical UI (WinUI/WPF/Web UI)
+
+- Add role-based login (doctor/nurse/admin)
+
+
+##👨‍💻 Author
+
+T Pothan Sai
+Beginner .NET Developer
+🚀 Passionate about clean code, healthcare tech, and learning new tools.
+
+⭐ Show Support
+
+If you like this project or found it useful, feel free to star the repository ⭐ on GitHub!
+
+---
+
+# 👍 What You Need To Do
+
+1. Create a file named **README.md** in your project folder (root).
+2. Paste the entire content above.
+3. Commit & push:
+
+```bash
+git add README.md
+git commit -m "Add professional README with architecture and features"
+git push
+```
