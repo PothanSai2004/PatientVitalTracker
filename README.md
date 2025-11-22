@@ -37,20 +37,21 @@ Automatic clinical alerts for:
 ---
 
 ## 🏗 Project Architecture
-PatientVitalTracker
-│
-├── Models/ # Domain layer (pure data classes)
-│ ├── Patient.cs
-│ ├── VitalReading.cs
-│ ├── VitalType.cs
-│ └── DataStore.cs
-│
-├── VitalRepository.cs # Repository Layer (File I/O, JSON storage)
-│
-├── App.cs # Application Layer (Console UI, business flow)
-│
-└── Program.cs # Entry point
-
+```text
+      PatientVitalTracker
+      │
+      ├── Models/ # Domain layer (pure data classes)
+      │ ├── Patient.cs
+      │ ├── VitalReading.cs
+      │ ├── VitalType.cs
+      │ └── DataStore.cs
+      │
+      ├── VitalRepository.cs # Repository Layer (File I/O, JSON storage)
+      │
+      ├── App.cs # Application Layer (Console UI, business flow)
+      │
+      └── Program.cs # Entry point
+```
 
 ### 🔍 Layer Responsibilities
 
