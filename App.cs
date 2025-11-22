@@ -240,32 +240,32 @@ namespace PatientVitalTracker
             {
                 VitalType.HeartRate => reading.Value switch
                 {
-                    < 60 => "Heart rate is low (bradycardia).",
-                    > 100 => "Heart rate is high (tachycardia).",
+                    < 60 => "Heart rate is low (bradycardia) needs immediate medication..",
+                    > 100 => "Heart rate is high (tachycardia) needs immediate medication..",
                     _ => "Heart rate is within normal range."
                 },
                 VitalType.SystolicBP => reading.Value switch
                 {
-                    < 90 => "Systolic BP is low.",
-                    > 140 => "Systolic BP is high.",
+                    < 90 => "Systolic BP is low needs immediate medication..",
+                    > 140 => "Systolic BP is too high needs immediate medication..",
                     _ => "Systolic BP is in normal range."
                 },
                 VitalType.DiastolicBP => reading.Value switch
                 {
-                    < 60 => "Diastolic BP is low.",
-                    > 90 => "Diastolic BP is high.",
+                    < 60 => "Diastolic BP is low needs immediate medication..",
+                    > 90 => "Diastolic BP is high needs immediate medication..",
                     _ => "Diastolic BP is in normal range."
                 },
                 VitalType.Temperature => reading.Value switch
                 {
-                    < 36.0 => "Temperature is low.",
-                    > 37.5 => "Possible fever.",
+                    < 92.0 => "Temperature is low needs immediate medication.",
+                    > 99.0 => "Possible fever needs immediate medication.",
                     _ => "Temperature is normal."
                 },
                 VitalType.RespiratoryRate => reading.Value switch
                 {
-                    < 12.0 => "Respiratory rate is low (bradypnea).",
-                    > 25.0 => "Respiratory rate is high (tachypnea).",
+                    < 12.0 => "Respiratory rate is low (bradypnea) needed immediate action.",
+                    > 25.0 => "Respiratory rate is high (tachypnea) needed immediate action.",
                     _ => "Respiratory rate is normal (eupnea)."
                 },
                 _ => "No rule defined."
