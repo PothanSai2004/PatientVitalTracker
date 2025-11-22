@@ -79,3 +79,15 @@ PatientVitalTracker
 
 The application stores all patient and reading information in a file:
 
+data.json
+
+It is automatically created and updated using **System.Text.Json**.
+
+---
+
+## ▶️ How to Run the Project
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/PatientVitalTracker.git
+cd PatientVitalTracker
