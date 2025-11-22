@@ -125,13 +125,15 @@ Here are possible upgrades that would be great for learning and interviews:
 - Add role-based login (doctor/nurse/admin)
 
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 T Pothan Sai
 Beginner .NET Developer
 🚀 Passionate about clean code, healthcare tech, and learning new tools.
 
-⭐ Show Support
+---
+
+# ⭐ Show Support
 
 If you like this project or found it useful, feel free to star the repository ⭐ on GitHub!
 
